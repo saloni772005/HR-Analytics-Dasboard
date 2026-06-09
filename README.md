@@ -50,6 +50,9 @@ This HR Analytics Dashboard was developed in Power BI to provide a comprehensive
 * Interactive Dashboard Design
 * HR Analytics & Workforce Reporting
 
+## Dashboard Preview
+![HR Analytics Dashboard](HR data annalytics_Snapshot.jpg)
+
 ## Conclusion
 
 The dashboard transforms raw HR data into actionable business insights by highlighting workforce trends, compensation structures, employee demographics, and leave management patterns. It enables HR professionals and decision-makers to identify opportunities for workforce optimization, improve employee experience, and support strategic organizational growth.
