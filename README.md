@@ -51,7 +51,9 @@ This HR Analytics Dashboard was developed in Power BI to provide a comprehensive
 * HR Analytics & Workforce Reporting
 
 ## Dashboard Preview
-![HR Analytics Dashboard](HR data annalytics_Snapshot.jpg)
+## Dashboard Preview
+
+![HR Analytics Dashboard](HR%20data%20annalytics_Snapshot.jpg)
 
 ## Conclusion
 
